@@ -1,4 +1,4 @@
-2469. Convert the Temperature
+'''2469. Convert the Temperature
 Solved
 Easy
 Topics
@@ -31,7 +31,7 @@ Explanation: Temperature at 122.11 Celsius converted in Kelvin is 395.26 and con
 
 Constraints:
 
-0 <= celsius <= 1000
+0 <= celsius <= 1000'''
 
 
 
