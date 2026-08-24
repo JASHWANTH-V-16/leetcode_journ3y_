@@ -1,5 +1,4 @@
-#
-Code
+'''Code
 Test Result
 Testcase
 Testcase
@@ -29,7 +28,7 @@ Explanation: "leeto" did not occur in "leetcode", so we return -1.
 Constraints:
 
 1 <= haystack.length, needle.length <= 104
-haystack and needle consist of only lowercase English characters.
+haystack and needle consist of only lowercase English characters.'''
 
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
